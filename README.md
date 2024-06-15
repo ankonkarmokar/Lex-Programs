@@ -4,8 +4,8 @@ Welcome to the Lex Programs Repository! This repository contains a collection of
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
+- [Getting Started]
+- [Prerequisites]
 
 ## Getting Started
 
